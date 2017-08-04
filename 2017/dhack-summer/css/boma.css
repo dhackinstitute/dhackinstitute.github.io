@@ -1,0 +1,19 @@
+h1{
+	color:red;
+	text-align:right;
+}
+#yam{
+	font-family:helvetica;
+}
+ol li{ 
+	color:green;
+}
+ul {
+	color:red;
+}
+body{
+	background-color:#00bbee;
+}
+.hat{ 
+	background-color: blue;
+}
